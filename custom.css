@@ -1,0 +1,34 @@
+html, body {
+    font-family: fantasy !important; 
+    height: 100% !important;
+
+}  
+
+
+#div-portada, #div-registrarse{
+    background-image: url("marvel.jpg");
+    background-size: cover;   
+    background-repeat: no-repeat;     
+    width: 100%;      
+    background-position: center;
+     
+}
+
+#div-registrarse {
+    padding-bottom: 5%;
+    height: 100%;
+}
+
+#resultados{
+    background-image: url("marvel.jpg");  
+    width: 100%;   
+        
+     
+}
+
+#row-texto-portada{
+    padding: 22%;
+}
+
+ 
+         
